@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.green{
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    position: relative;
+    margin: auto;
+}
+.red{
+    width: 160px;
+    height: 154px;
+    background-color: red;
+    border-radius: 53%;
+    margin: auto;
+    left: 42%;
+    right: 42%;
+    position: absolute;
+    top: 7%;
+}
+marquee{
+    color: red;
+    font-size: 55px;
+    font-family: fantasy;
+}
+span{
+    color: green;
+}
